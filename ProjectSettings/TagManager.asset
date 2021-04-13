@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Blok
+  - Enemy
+  - Bubble
+  - Undefined
+  - Drop
+  - SpawnPoint
+  - Point
+  - Heart wasted
+  - musicbox
+  - Sound
+  - MEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Bubble Layer
+  - GemLayer
+  - PlayerLayer
+  - EnemyLayer
+  - PortalLayer
+  - Platform
+  - PLAYERONLY
+  - Enemy IN BUBBLE LAYER
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2971811493
+    locked: 0
+  - name: Level
+    uniqueID: 65673661
+    locked: 0
+  - name: Gems
+    uniqueID: 499334871
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
